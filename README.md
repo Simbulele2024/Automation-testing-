@@ -1,4 +1,4 @@
-# Automation-testing-
+
 # Beginner's Guide to Automation Testing
 
 ## Introduction
